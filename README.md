@@ -1,10 +1,13 @@
 ## Link Dump ✨
 - https://www.geeksforgeeks.org/number-theory-competitive-programming/
-- https://cp-algorithms.com/
+- __https://cp-algorithms.com/__
 - https://github.com/niklasb/contest-algos/tree/master
 - https://github.com/bqi343/cp-notebook/tree/master/Implementations
-- https://github.com/the-tourist/algo
+- __https://github.com/the-tourist/algo__
 - https://tutorial.math.lamar.edu/
 - https://blog.shahjalalshohag.com/equation-list/
 - https://monkeysense.me/
 - https://project-sense.vercel.app/
+- __https://www.tle-eliminators.com/cp-sheet__
+- __https://acodedaily.com/__
+- __https://www.hackerrank.com/contests/projecteuler/challenges__
